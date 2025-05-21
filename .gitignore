@@ -1,0 +1,7 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/APBD_10/appsettings.json
+/APBD_10/appsettings.Development.json
